@@ -38,4 +38,4 @@
 
 <br clear="both">
 
-<img src="[https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdev.to%2Fmishmanners%2Fhow-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66&psig=AOvVaw37pAoS--q8-WcfyJddQ-qe&ust=1706381432839000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKi5pa7c-4MDFQAAAAAdAAAAABAD)https://www.google.com/url?sa=i&url=https%3A%2F%2Fdev.to%2Fmishmanners%2Fhow-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66&psig=AOvVaw37pAoS--q8-WcfyJddQ-qe&ust=1706381432839000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKi5pa7c-4MDFQAAAAAdAAAAABAD" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" alt="Snake animation" />
