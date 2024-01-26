@@ -1,8 +1,8 @@
 <h2 align="left">Hi 👋! I'm Prathamesh Vattamwar, a fresher from Pune</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=your-github-username&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=prathamesh-vattamwar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prathamesh-vattamwar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
@@ -18,7 +18,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" height="30" alt="bootstrap logo"  />
   <img width="12" />
-  <img src="https://imgs.search.brave.com/W9CbFyxwjuZCstu49xt6tccC5kk1TtWTumoZ_-X-XRU/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jZG4u/d29ybGR2ZWN0b3Js/b2dvLmNvbS9sb2dv/cy90YWlsd2luZC1j/c3MtMi5zdmc.svg" height="30" alt="tailwind logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="tailwind logo"  />
+</div>
+
+<div align="left">
+  <img src="https://img.shields.io/github/stars/prathamesh-vattamwar?label=Total%20Stars&style=for-the-badge" height="35" alt="stars"  />
+  <img src="https://img.shields.io/github/followers/prathamesh-vattamwar?label=Followers&style=for-the-badge" height="35" alt="followers"  />
+  <img src="https://img.shields.io/github/last-commit/prathamesh-vattamwar/prathameshvattamwar?label=Last%20Commit&style=for-the-badge" height="35" alt="last commit"  />
 </div>
 
 <div align="left">
