@@ -38,6 +38,6 @@
 
 <br clear="both">
 
-<a href="prathameshvattamwar.github.io/portfolio"> My Website </a>
+<a href="https://prathameshvattamwar.github.io/portfolio/" target="_blank" style="text-decoration:'none'; padding:'5 px'; border-radius:'8 px' background-color:'blue'; color:'#fff'">Click here to visit My Website </a>
 
 <img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" alt="Snake animation" />
