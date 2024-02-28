@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/github/last-commit/prathameshvattamwar/prathameshvattamwar?label=Last%20Commit&style=for-the-badge" height="35" alt="last commit"/>
 </div>
 
-<div align="left">
+<div style="display:flex;" align="left">
  <a href="https://www.youtube.com/channel/UCIfsCi-UkxDfvAykogrRFFg" target="_blank"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  /></a>
  <a href="https://www.instagram.com/prathameshpv24/" target="_blank"> <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
  
