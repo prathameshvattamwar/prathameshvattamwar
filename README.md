@@ -4,10 +4,10 @@
 <h3 align="center">Web content developer and product executive at Reality Premedia Services, SP infocity, Pune.</h3>
 <p align="center">____________________________________</p>
 <br> 
-<ul>
-  <li>Frontend Developer</li>
-  <li>Web Developer</li>
-</ul>
+<div align="center">
+<p> Frontend Developer </p>
+<p> Web Developer </p>
+</div>
 <br clear="both">
 <a href="https://prathameshvattamwar.github.io/portfolio" target="_blank" class="button big">Click here for my portfolio website</a>
 <br><br>
