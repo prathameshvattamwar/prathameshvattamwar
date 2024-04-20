@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Prathamesh Vattamwar, <br><span style="font-size:14px;"></span></h2>
+<h2 align="center">Hi 👋! I'm Prathamesh Vattamwar, <br><span style="font-size:14px;"></span></h2>
 <p align="center">About me</p>
 <p align="center">____________________________________</p>
 <h3 align="center">Web content developer and product executive at Reality Premedia Services, SP infocity, Pune.</h3>
