@@ -1,9 +1,9 @@
-<h2 align="left">Hi 👋! I'm Prathamesh Vattamwar,</h2>
+<h2 align="left">Hi 👋! I'm Prathamesh Vattamwar, <br><span style="font-size:14px;"></span></h2>
 <br> 
 <ul>
+   <li>Web content developer and product executive at Reality Premedia, SP infocity, Pune</li>
   <li>Frontend Developer</li>
   <li>Web Developer</li>
-  <li>Web content developer and product executive at Reality Premedia, SP infocity, Pune</li>
 </ul>
 <br clear="both">
 <a href="https://prathameshvattamwar.github.io/portfolio" target="_blank" class="button big">Click here for my portfolio website</a>
