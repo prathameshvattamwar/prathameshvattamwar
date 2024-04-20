@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋! I'm Prathamesh Vattamwar, a fresher from Pune</h2>
-<div align="right">
+<div align="left">
   <a href="https://u8views.com/github/prathameshvattamwar"><img src="https://u8views.com/api/v1/github/profiles/35573364/views/day-week-month-total-count.svg"></a>
 </div>
 <div align="left" >
