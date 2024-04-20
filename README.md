@@ -2,9 +2,6 @@
 <br> 
 <ul>
    <li>Web content developer and product executive at Reality Premedia, SP infocity, Pune</li>
-   <li>
-      <img src="https://lh3.googleusercontent.com/p/AF1QipO0rfyyOmpa4mKqEaOUiSDWBBjiyb9SDiPstaq6=s680-w680-h510" alt="Reality Premedia" style="max-width:50%"/>
-   </li>
   <li>Frontend Developer</li>
   <li>Web Developer</li>
 </ul>
