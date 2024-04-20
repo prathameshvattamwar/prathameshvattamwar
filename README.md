@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! I'm Prathamesh Vattamwar, <br><span style="font-size:14px;"></span></h2>
-About me <br>
-<br> <h3 align="center">Web content developer and product executive at Reality Premedia, SP infocity, Pune.</h3>
+About me
+<h3 align="center">Web content developer and product executive at Reality Premedia, SP infocity, Pune.</h3><br> 
 <ul>
   <li>Frontend Developer</li>
   <li>Web Developer</li>
