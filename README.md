@@ -6,7 +6,7 @@
   <li>Web content developer and product executive at Reality Premedia, SP infocity, Pune</li>
 </ul>
 <br clear="both">
-<a href="https://prathameshvattamwar.github.io/portfolio/" target="_blank">Click here to visit My Website </a>
+<a href="https://prathameshvattamwar.github.io/portfolio" target="_blank" class="button big">Click here for my portfolio website</a>
 <br><br>
 <div align="left">
   <a href="https://u8views.com/github/prathameshvattamwar"><img src="https://u8views.com/api/v1/github/profiles/35573364/views/day-week-month-total-count.svg"></a>
