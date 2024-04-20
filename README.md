@@ -7,7 +7,7 @@
 </ul>
 <br clear="both">
 <a href="https://prathameshvattamwar.github.io/portfolio/" target="_blank">Click here to visit My Website </a>
-<br clear="both">
+<br><br>
 <div align="left">
   <a href="https://u8views.com/github/prathameshvattamwar"><img src="https://u8views.com/api/v1/github/profiles/35573364/views/day-week-month-total-count.svg"></a>
 </div>
