@@ -1,4 +1,10 @@
-<h2 align="left">Hi 👋! I'm Prathamesh Vattamwar,<br> Web content developer and product executor at Reality Premedia, SP infocity, Pune</h2>
+<h2 align="left">Hi 👋! I'm Prathamesh Vattamwar,</h2>
+<br> 
+<ul>
+  <li>Web content developer and product executive at Reality Premedia, SP infocity, Pune</li>
+</ul>
+
+<br><br><br>
 <div align="left">
   <a href="https://u8views.com/github/prathameshvattamwar"><img src="https://u8views.com/api/v1/github/profiles/35573364/views/day-week-month-total-count.svg"></a>
 </div>
