@@ -1,12 +1,13 @@
 <h2 align="center">Hi 👋! I'm Prathamesh Vattamwar, <br><span style="font-size:14px;"></span></h2>
 <p align="center">About me</p>
 <p align="center">____________________________________</p>
-<h3 align="center">Web content developer and product executive at Reality Premedia Services, SP infocity, Pune.</h3>
+<h3 align="center">Frontend Web Developer & Product Executive @Reality Premedia Services, SP infocity, Pune.</h3>
 <p align="center">____________________________________</p>
 <br> 
 <div align="center">
 <p> Frontend Developer </p>
 <p> Web Developer </p>
+<p> Web Designer </p>
 </div>
 <br clear="both">
 <div align="center">
