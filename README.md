@@ -60,6 +60,8 @@
 </div>
 
 <br clear="both">
+<br><br>
+<h3>============= Social Media Links =============</h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/prathamesh-vattamwar-483529227/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="linkedin logo"  /></a>
