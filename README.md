@@ -20,6 +20,15 @@
 </div>
 <br clear="both">
 
+
+<div align="center">
+  <img src="https://img.shields.io/github/stars/prathameshvattamwar?label=Total%20Stars&style=for-the-badge" height="35" alt="stars"  />
+  <img src="https://img.shields.io/github/followers/prathameshvattamwar?label=Followers&style=for-the-badge" height="35" alt="followers"  />
+  <img src="https://img.shields.io/github/last-commit/prathameshvattamwar/prathameshvattamwar?label=Last%20Commit&style=for-the-badge" height="35" alt="last commit"/>
+</div>
+
+
+<br clear="both">
 <div align="center" >
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prathameshvattamwar&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=3&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
 </div>
@@ -44,12 +53,6 @@
 </div>
 
 
-<br clear="both">
-<div align="center">
-  <img src="https://img.shields.io/github/stars/prathameshvattamwar?label=Total%20Stars&style=for-the-badge" height="35" alt="stars"  />
-  <img src="https://img.shields.io/github/followers/prathameshvattamwar?label=Followers&style=for-the-badge" height="35" alt="followers"  />
-  <img src="https://img.shields.io/github/last-commit/prathameshvattamwar/prathameshvattamwar?label=Last%20Commit&style=for-the-badge" height="35" alt="last commit"/>
-</div>
 
 <br clear="both">
 <div align="center">
