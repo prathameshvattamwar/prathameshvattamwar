@@ -5,9 +5,7 @@
 <p align="center">____________________________________</p>
 <br> 
 <div align="center">
-<p> Frontend Developer </p>
-<p> Web Developer </p>
-<p> Web Designer </p>
+<p> Frontend Developer | Web Content Developer | Web Designer</p>
 </div>
 <br clear="both">
 <div align="center">
