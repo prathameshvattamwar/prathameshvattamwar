@@ -20,11 +20,6 @@
 </div>
 <br clear="both">
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=prathameshvattamwar.prathameshvattamwar&left_text=Profile%20Views"  />
-</div>
-
-<br clear="both">
 <div align="center" >
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prathameshvattamwar&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=3&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
 </div>
