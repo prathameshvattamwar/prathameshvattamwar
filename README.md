@@ -20,6 +20,11 @@
 </div>
 <br clear="both">
 
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=prathameshvattamwar.prathameshvattamwar&left_text=Profile%20Views"  />
+</div>
+
+<br clear="both">
 <div align="center" >
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prathameshvattamwar&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=3&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
 </div>
@@ -58,11 +63,6 @@
  <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank"> <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
  <a href="https://www.linkedin.com/in/prathamesh-vattamwar-483529227/" target="_blank"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
 </div>
-
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=prathameshvattamwar.prathameshvattamwar&left_text=Profile%20Views"  />
-</div>
-
 
 <br clear="both">
 <div align="center">
