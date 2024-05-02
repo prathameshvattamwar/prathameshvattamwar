@@ -71,7 +71,3 @@
 </div>
 <!-- <br> -->
 <h3 align="center">=======================================</h3>
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=3&theme=dark" alt="Layout with last medium posts"  />
-</div>
