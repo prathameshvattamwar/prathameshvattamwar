@@ -62,7 +62,7 @@
 <br clear="both">
 <br>
 <h3 align="center">============= Social Media Links =============</h3>
-<br><br>
+<br>
 <div align="center">
   <a href="https://www.linkedin.com/in/prathamesh-vattamwar-483529227/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="linkedin logo"  /></a>
   <a href="https://twitter.com/prathameshv24"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="60" height="40" alt="twitter logo"  /></a>
@@ -71,3 +71,5 @@
   <a href="https://www.facebook.com/prathamesh.vattamwar.7/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="60" height="40" alt="facebook logo"  /></a>
   <a href="https://www.youtube.com/@WebDeveloperInsights"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="60" height="40" alt="youtube logo"  /></a>
 </div>
+<br>
+<h3>==========================</h3>
