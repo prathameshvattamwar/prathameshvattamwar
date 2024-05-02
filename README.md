@@ -56,15 +56,16 @@
 
 <br clear="both">
 <div align="center">
+  <img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" alt="Snake animation" />
+</div>
+
+<br clear="both">
+
+<div align="center">
   <a href="https://www.linkedin.com/in/prathamesh-vattamwar-483529227/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="linkedin logo"  /></a>
   <a href="https://twitter.com/prathameshv24"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="60" height="40" alt="twitter logo"  /></a>
   <a href="mailto:prathamesh.vattamwar24@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="40" alt="gmail logo"  /></a>
   <a href="https://www.instagram.com/prathameshpv24/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="60" height="40" alt="instagram logo"  /></a>
   <a href="https://www.facebook.com/prathamesh.vattamwar.7/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="60" height="40" alt="facebook logo"  /></a>
   <a href="https://www.youtube.com/@WebDeveloperInsights"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="60" height="40" alt="youtube logo"  /></a>
-</div>
-
-<br clear="both">
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" alt="Snake animation" />
 </div>
