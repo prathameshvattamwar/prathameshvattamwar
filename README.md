@@ -72,4 +72,4 @@
   <a href="https://www.youtube.com/@WebDeveloperInsights"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="60" height="40" alt="youtube logo"  /></a>
 </div>
 <br>
-<h3>==========================</h3>
+<h3 align="center">=======================================</h3>
