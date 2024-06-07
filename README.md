@@ -94,5 +94,5 @@
 <br><br><br>
 
 <div align="center">
-  <h3>Top mini project repositories</h3>
+  <h3>All Mini Projects Website and Source Code - <a href="https://prathameshvattamwar.github.io/projectcard">Click Here to See</a></h3>
 </div>
