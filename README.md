@@ -93,9 +93,6 @@
 
 <br><br><br>
 
-<select name="cars" id="cars">
-    <option value="volvo">Volvo</option>
-    <option value="saab">Saab</option>
-    <option value="opel">Opel</option>
-    <option value="audi">Audi</option>
-  </select>
+<div align="center">
+  <h3>Top mini project repositories</h3>
+</div>
