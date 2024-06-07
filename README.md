@@ -92,21 +92,10 @@
 
 
 <br><br><br>
-	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
 
-<nav>
-<a class="dropdown-toggle" href="#" title="Please Select">Browse by topic<span class="selectArrow"></span></a>
-<ul class="dropdown">
-  <li><a href="/customers/">General Information</a></li>
-  <li><a href="/customers/lost-stolen-cards/">Lost or stolen thinkmoney Prepaid Debit Mastercard</a></li>
-  <li><a href="/customers/existing-customers-faq/">Existing Customer FAQs</a></li>
-  <li><a href="/customers/manage-your-account-online/" target="_blank">Manage your account online</a></li>
-  <li><a href="/customers/travel-money/">Travel Money</a></li>
-  <li><a href="/customers/staying-safe-online/">Staying safe online</a></li>
-  <li><a href="/customers/mastercard-secure-code/">Mastercard SecureCode</a></li>
-  <li><a href="/customers/faster-payments/">Faster payments</a></li>
-  <li><a href="/customers/telephone-sms-services/">Pin by text</a></li>
-  <li><a href="/customers/paying-money-in/">Paying money into your account</a></li>
-  <li><a href="/customers/refer-a-friend/">Refer a friend</a></li>
-</ul>
-</nav>
+<select name="cars" id="cars">
+    <option value="volvo">Volvo</option>
+    <option value="saab">Saab</option>
+    <option value="opel">Opel</option>
+    <option value="audi">Audi</option>
+  </select>
