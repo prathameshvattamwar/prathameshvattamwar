@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋! I'm Prathamesh Vattamwar, <br><span style="font-size:14px;"></span></h2>
 <p align="center">About me</p>
 <p align="center">____________________________________</p>
-<h3 align="center">Frontend Web Developer & Product Executive @Reality Premedia Services, SP infocity, Pune.</h3>
+<h3 align="center">Frontend Web Developer & Web content developer @Reality Premedia Services, SP infocity, Pune.</h3>
 <p align="center">____________________________________</p>
 <br> 
 <div align="center">
@@ -12,6 +12,11 @@
   <a href="https://prathameshvattamwar.github.io/portfolio" target="_blank" class="button big" >Click here for my portfolio website</a>
 </div>
 <br><br>
+
+<div align="center">
+  <h3>All Mini Projects Website and Source Code - <a href="https://prathameshvattamwar.github.io/projectcard">Click Here to See</a></h3>
+</div>
+<br><br><br>
 <!-- Total profile views -->
 <div align="center">
   <a href="https://u8views.com/github/prathameshvattamwar"><img src="https://u8views.com/api/v1/github/profiles/35573364/views/day-week-month-total-count.svg"></a>
@@ -91,8 +96,3 @@
 
 
 
-<br><br><br>
-
-<div align="center">
-  <h3>All Mini Projects Website and Source Code - <a href="https://prathameshvattamwar.github.io/projectcard">Click Here to See</a></h3>
-</div>
