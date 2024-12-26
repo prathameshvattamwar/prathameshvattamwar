@@ -11,12 +11,12 @@
 <div align="center">
   <a href="https://prathameshvattamwar.github.io/portfolio" target="_blank" class="button big" >Click here for my portfolio website</a>
 </div>
-<br><br>
+<br>
 
 <div align="center">
   <h3>All Mini Projects Website and Source Code - <a href="https://prathameshvattamwar.github.io/projectcard">Click Here to See</a></h3>
 </div>
-<br><br>
+<br>
 <!-- Total profile views -->
 <div align="center">
   <a href="https://u8views.com/github/prathameshvattamwar"><img src="https://u8views.com/api/v1/github/profiles/35573364/views/day-week-month-total-count.svg"></a>
