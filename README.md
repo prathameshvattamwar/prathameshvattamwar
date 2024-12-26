@@ -22,7 +22,6 @@
   <a href="https://u8views.com/github/prathameshvattamwar"><img src="https://u8views.com/api/v1/github/profiles/35573364/views/day-week-month-total-count.svg"></a>
 </div>
 <br clear="both">
-####
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=prathameshvattamwar&show_icons=true&theme=transparent" />
@@ -53,8 +52,6 @@
 <div align="center">
 </div>
 
-###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="30" />
@@ -74,10 +71,6 @@
   <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
-
-###
-
-
 
 <br clear="both">
 <div align="center">
