@@ -28,6 +28,10 @@
   ![Prathamesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=prathameshvattamwar&show_icons=true&theme=transparent)
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prathameshvattamwar&show_icons=true&theme=transparent" />
+</div>
+
+<div align="center">
   <img src="https://img.shields.io/github/stars/prathameshvattamwar?label=Total%20Stars&style=for-the-badge" height="35" alt="stars"  />
   <img src="https://img.shields.io/github/followers/prathameshvattamwar?label=Followers&style=for-the-badge" height="35" alt="followers"  />
   <img src="https://img.shields.io/github/last-commit/prathameshvattamwar/prathameshvattamwar?label=Last%20Commit&style=for-the-badge" height="35" alt="last commit"/>
