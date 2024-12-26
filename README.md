@@ -25,7 +25,7 @@
 
 <div align="center">
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=prathameshvattamwar&show_icons=true&theme=transparent" /> -->
-  <img src="https://github-readme-stats.vercel.app/api?username=prathameshvattamwar&show_icons=true&theme=transparent&hide=prs,contribs"/><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=prathameshvattamwar&show_icons=true&theme=transparent&hide=prs,contribs"/><br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prathameshvattamwar&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=3&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
