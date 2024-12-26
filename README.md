@@ -25,9 +25,7 @@
 
 
 ####
-<div align="center">
   ![Prathamesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=prathameshvattamwar&show_icons=true&theme=transparent)
-</div>
 
 <div align="center">
   <img src="https://img.shields.io/github/stars/prathameshvattamwar?label=Total%20Stars&style=for-the-badge" height="35" alt="stars"  />
