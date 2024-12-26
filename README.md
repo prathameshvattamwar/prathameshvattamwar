@@ -22,14 +22,12 @@
   <a href="https://u8views.com/github/prathameshvattamwar"><img src="https://u8views.com/api/v1/github/profiles/35573364/views/day-week-month-total-count.svg"></a>
 </div>
 <br clear="both">
-
-
 ####
-  ![Prathamesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=prathameshvattamwar&show_icons=true&theme=transparent)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=prathameshvattamwar&show_icons=true&theme=transparent" />
 </div>
+<br clear="both">
 
 <div align="center">
   <img src="https://img.shields.io/github/stars/prathameshvattamwar?label=Total%20Stars&style=for-the-badge" height="35" alt="stars"  />
